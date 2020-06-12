@@ -1,0 +1,6 @@
+##grflangid 0x01
+
+STR_GRF_NAME						:{TITLE}
+STR_GRF_DESC						:{ORANGE}988 real town names {BLACK}from the American states of Connecticut, Rhode Island, Massachusetts, Vermont, New Hampshire, and Maine.{}{}{BLACK}Coded by 2TallTyler.
+
+STR_NAME_SET						:New England, USA
