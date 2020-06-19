@@ -1,0 +1,6 @@
+##grflangid 0x01
+
+STR_GRF_NAME						:Pennsylvania Town Names
+STR_GRF_DESC						:{ORANGE}1289 real town names {BLACK}from the American state of Pennsylvania.{}{}{BLACK}Coded by 2TallTyler.
+
+STR_NAME_SET						:Pennsylvania
